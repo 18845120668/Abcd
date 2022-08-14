@@ -2,6 +2,6 @@
 
 int main(){
 
-	printf("push first code\n");
+	printf("push first code...\n");
 	return 0;
 }
