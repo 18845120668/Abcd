@@ -2,7 +2,6 @@
 
 int main(){
 
-	printf("one code...\n");
-	printf("two code...\n");
+	printf("push first code\n");
 	return 0;
 }
